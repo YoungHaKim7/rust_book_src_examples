@@ -1,0 +1,1 @@
+- https://stackoverflow.com/questions/26757355/how-do-i-collect-into-an-array
