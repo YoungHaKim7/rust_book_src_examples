@@ -1,0 +1,6 @@
+[package]
+name = "a03_vector_push_pop"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
